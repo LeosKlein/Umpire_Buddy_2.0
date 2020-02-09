@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Umpire-Buddy-2.0'
